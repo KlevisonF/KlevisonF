@@ -8,15 +8,13 @@ I’m a Software Engineer. 🚀
 
 🌎 Front-end Web with React
 
-📡 Back-end with Node.js, Nestjs
-
 🛠️ Typescript  
 
 🧰 And more...  
 
 #### 💬 Find me elsewhere
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/klevisonF/)](https://www.linkedin.com/in/klevisonF/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/klevisonF/)](https://www.linkedin.com/in/klevison-ferreira-908471208/) 
 [![Gmail Badge](https://img.shields.io/badge/-klevison.ui@gmai-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:klevison.ui@gmail.com)](mailto:klevison.ui@gmail.com)
 
 <div align="center">
